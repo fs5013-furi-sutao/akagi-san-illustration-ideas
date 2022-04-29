@@ -54,10 +54,10 @@ https://www.behance.net/gallery/58134777/2017-SELECTED-EDITORIALPROMOTIONAL-ILLU
 ![](./images/girl-outside.jpg)
 https://dribbble.com/shots/11077158-Girl-walking-outside
 
-![](./images/walking-road.png)
+![](./images/walking-road.jpg)
 https://www.instagram.com/p/COhHm4CAiUh/
 
-![](./images/morning-walk.png)
+![](./images/morning-walk.jpg)
 https://dribbble.com/shots/5577161-Morning-walk
 
 ![](./images/.png)
