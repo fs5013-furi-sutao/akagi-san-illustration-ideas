@@ -33,12 +33,14 @@ https://dribbble.com/shots/3984704-Marathon-Race
 ![](./images/vr.png)
 https://dribbble.com/shots/5345474-VR-Illustration
 
-![](./images/.png)
+![](./images/.jpg)
 https://dribbble.com/shots/11077158-Girl-walking-outside
 
-![](./images/.png)
+![](./images/young-man.png)
+https://freepik.com/premium-vector/concept-illustration-young-man-with-thinking-pose-by-placing-finger-chin_7318042.htm
 
-![](./images/.png)
+![](./images/glassed-girl.png)
+https://dribbble.com/shots/6816008-Music-Girl-again
 
 ![](./images/.png)
 
