@@ -42,7 +42,14 @@ https://freepik.com/premium-vector/concept-illustration-young-man-with-thinking-
 ![](./images/glassed-girl.png)
 https://dribbble.com/shots/6816008-Music-Girl-again
 
-![](./images/.png)
+![](./images/music-girl.png)
+https://dribbble.com/shots/6673317-Music-Girl
+
+![](./images/mountain.jpg)
+https://www.behance.net/gallery/58134777/2017-SELECTED-EDITORIALPROMOTIONAL-ILLUSTRATIONS/modules/342137295
+
+![](./images/editorial.jpg)
+https://www.behance.net/gallery/58134777/2017-SELECTED-EDITORIALPROMOTIONAL-ILLUSTRATIONS/modules/342137277
 
 ![](./images/.png)
 
@@ -50,3 +57,6 @@ https://dribbble.com/shots/6816008-Music-Girl-again
 
 ![](./images/.png)
 
+![](./images/.png)
+
+![](./images/.png)
