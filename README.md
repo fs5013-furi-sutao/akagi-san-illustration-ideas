@@ -4,7 +4,7 @@
 https://freepik.com/premium-vector/astronaut-lying-on-the-moon-illustration_16890829.htm
 
 ![](./images/skateboad.jpg)
-https://dribbble.com/shots/15138497-Skateboard-Landing-Page-Design/attachments/6875294?mode=media
+https://dribbble.com/shots/15138497-Skateboard-Landing-Page-Design
 
 ![](./images/feel-levitation.png)
 https://dribbble.com/shots/4803509-Levitation
@@ -24,7 +24,8 @@ https://freepik.com/free-vector/landing-page-template-of-the-universe_5198522.ht
 ![](./images/relax.png)
 https://www.behance.net/gallery/59503435/Teacup-Analytics-Illust
 
-![](./images/.png)
+![](./images/space-header.png)
+https://dribbble.com/shots/3908319-Space-Header-Illustration
 
 ![](./images/.png)
 
