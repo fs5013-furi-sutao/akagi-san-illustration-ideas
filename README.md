@@ -96,7 +96,9 @@ https://dribbble.com/shots/5708922-Bukubuku-Header-Illustration-Exploration-for-
 ![](./images/team-work.png)
 https://dribbble.com/shots/14132027-Teamwork-Collaboration
 
-![](./images/.png)
+![](./images/fly-away.png)
+https://dribbble.com/shots/4683414-Up-up-Away
+
 ![](./images/.png)
 ![](./images/.png)
 ![](./images/.png)
