@@ -87,7 +87,9 @@ https://designbundles.net/plusstore/847370-cheerful-couple-climbing-the-mountain
 ![](./images/join-noansa.png)
 https://dribbble.com/shots/6272233-The-Expedition-Team-s-Noansa
 
-![](./images/.png)
+![](./images/running-business.png)
+https://dribbble.com/shots/7412625-Running-Your-Business
+
 ![](./images/.png)
 ![](./images/.png)
 ![](./images/.png)
