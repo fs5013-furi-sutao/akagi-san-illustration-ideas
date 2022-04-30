@@ -118,9 +118,11 @@ https://dribbble.com/shots/3865541-Your-Travel-Map
 
 ![](./images/the-chase-butterfly-challenge-banner.png)
 
-![](./images/water-color-butterfly.png)
+![](./images/easter-vintage-butterfly.png)
 
 ![](./images/tshirt.jpg)
+
+![](./images/water-color-butterfly.png)
 
 ![](./images/.png)
 ![](./images/.png)
