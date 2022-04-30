@@ -75,9 +75,14 @@ https://dribbble.com/shots/6567823-Mountaineer
 ![](./images/hiking.jpg)
 https://www.vecteezy.com/vector-art/2886636-backpacker-travel-adventure-concept-outdoor-vacation-recreation-in-nature-theme-of-hiking-climbing-trekking-vector-illustration-flat-cartoon-character-graphic-design-landing-page-template
 
-![](./images/.png)
-![](./images/.png)
-![](./images/.png)
-![](./images/.png)
-![](./images/.png)
+![](./images/cliff.png)
+https://www.pinterest.cl/pin/pin-by-abdulrahman-on-your-pinterest-likes--250231323037774223/
 
+![](./images/.png)
+![](./images/.png)
+![](./images/.png)
+![](./images/.png)
+![](./images/.png)
+![](./images/.png)
+![](./images/.png)
+![](./images/.png)
