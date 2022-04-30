@@ -105,7 +105,9 @@ https://dribbble.com/shots/4932696-happen-to-wear-the-same-color
 ![](./images/battle.jpg)
 https://drwong.live/design/illustration-process-battle-thomas-rohlfs/
 
-![](./images/.png)
+![](./images/build-big.jpg)
+https://veerle.duoh.com/inspiration/build
+
 ![](./images/.png)
 ![](./images/.png)
 ![](./images/.png)
