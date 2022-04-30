@@ -93,7 +93,9 @@ https://dribbble.com/shots/7412625-Running-Your-Business
 ![](./images/books.png)
 https://dribbble.com/shots/5708922-Bukubuku-Header-Illustration-Exploration-for-Books-Website
 
-![](./images/.png)
+![](./images/team-work.png)
+https://dribbble.com/shots/14132027-Teamwork-Collaboration
+
 ![](./images/.png)
 ![](./images/.png)
 ![](./images/.png)
